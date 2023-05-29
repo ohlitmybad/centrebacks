@@ -1540,7 +1540,7 @@ const name22 = document.createElement('td');
 name22.textContent = "Similar data to " + results2[1];
 headerRow2.appendChild(name22);
 table2.appendChild(headerRow2);
-
+	
 for (let i = 0; i < similarPlayers.length; i++) {
   const playerData = similarPlayers[i];
   const playerData2 = similarPlayers2[i];
@@ -1548,10 +1548,10 @@ for (let i = 0; i < similarPlayers.length; i++) {
   const metricHeader2 = document.createElement('th');
   row2.appendChild(metricHeader2);
   const cell12 = document.createElement('td');
-  cell12.textContent = playerData[1];
+  cell12.textContent = playerData[1] + ' (' + playerData[2] + ', ' + playerData[3] + ')' ;
   row2.appendChild(cell12);
   const cell22 = document.createElement('td');
-  cell22.textContent = playerData2[1];
+  cell22.textContent = playerData2[1] + ' (' + playerData2[2] + ', ' + playerData2[3] + ')' ;
   row2.appendChild(cell22);
   table2.appendChild(row2);
 }
