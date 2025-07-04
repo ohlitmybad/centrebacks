@@ -11,21 +11,21 @@
   "table": {
     "percentiles": "Percentiles",
     "age": "Age",
-    "passes": "Passes",
-    "fwdPass": "Forward pass%",
-    "progPasses": "Prog. passes",
-    "defActions": "Def. actions",
-    "defDuel": "Def. duel%",
-    "aerial": "Aerial%",
-    "progCarries": "Prog. carries",
-    "minutes": "Minutes played"
+    "passes": "Passes cmp",
+    "fwdPass": "Fwd pass%",
+    "progPasses": "Prog passes",
+    "possWon": "Poss won",
+    "defDuel": "Def duel%",
+    "aerial": "Aerial duel%",
+    "progCarries": "Prog carries",
+    "minutes": "Minutes"
   },
   "radar": {
     "aerial": "Aerial%",
-    "duel": "Duel%",
-    "defActions": "Def Actions",
-    "progPasses": "Prog Passes",
-    "fwdPass": "Fwd Pass%",
+    "duel": "Def duel%",
+    "possWon": "Poss won",
+    "progPasses": "Prog passes",
+    "fwdPass": "Fwd pass%",
     "passes": "Passes",
     "carrying": "Carrying"
   },
@@ -37,7 +37,7 @@
   },
   "meta": {
     "title": "DataMB | Compare Centrebacks",
-    "description": "Compare the statistics of defenders (centre-backs) in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare duels; aerial duels; interceptions; tackles; passes; passing accuracy; progressive passes; progressive runs and more for centre-backs in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+    "description": "Compare the statistics of defenders (centre-backs) in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare duel win rate; aerial duels; interceptions; tackles; possessions won; passes; passing accuracy; progressive passes; progressive runs and more for centre-backs in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
   },
   "positions": {
     "goalkeeper": "Goalkeeper",
@@ -46,5 +46,11 @@
     "midfielder": "Midfielder",
     "winger": "Winger",
     "striker": "Striker"
+  },
+  "footer": {
+    "rights": "© All Rights Reserved",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "about": "About"
   }
-} 
+}
