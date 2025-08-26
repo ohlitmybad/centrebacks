@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Home",
+    "pro": "Pro",
+    "guide": "Guide"
+  },
+  "search": {
+    "placeholder": "Enter a team or player name...",
+    "placeholder2": "Enter name of centreback..."
+  },
+  "table": {
+    "percentiles": "Percentiles",
+    "age": "Age",
+    "passes": "Passes cmp",
+    "fwdPass": "Fwd pass%",
+    "progPasses": "Prog passes",
+    "possWon": "Poss won",
+    "defDuel": "Def duel%",
+    "aerial": "Aerial duel%",
+    "progCarries": "Prog carries",
+    "minutes": "Minutes"
+  },
+  "radar": {
+    "aerial": "Aerial%",
+    "duel": "Def duel%",
+    "possWon": "Poss won",
+    "progPasses": "Prog passes",
+    "fwdPass": "Fwd pass%",
+    "passes": "Passes",
+    "carrying": "Carrying"
+  },
+  "buttons": {
+    "team": "Team"
+  },
+  "similar": {
+    "to": "Similar data to"
+  },
+  "meta": {
+    "title": "DataMB | Compare Centrebacks",
+    "description": "Compare the statistics of defenders (centre-backs) in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare duel win rate; aerial duels; interceptions; tackles; possessions won; passes; passing accuracy; progressive passes; progressive runs and more for centre-backs in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+  },
+  "positions": {
+    "goalkeeper": "Goalkeeper",
+    "centreback": "Centre-back",
+    "fullback": "Full-back",
+    "midfielder": "Midfielder",
+    "winger": "Winger",
+    "striker": "Striker"
+  },
+  "footer": {
+    "rights": "© All Rights Reserved",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "about": "About"
+  }
+}
